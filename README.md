@@ -32,3 +32,6 @@ List Comprehensions:
 Modular Functions:
 - Code is broken down into more focused functions
 - Improves readability, reuasability, and sustainability
+
+## Code Walkthrough
+https://www.loom.com/share/263ccbfbdd27477396a0ac50e8d13f1e
